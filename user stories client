@@ -6,8 +6,9 @@ As a customer, I want to set the desired parameters and for the system to find m
 
 Аs a customer, I want the system to find the watch itself and send me a message so that I can buy the desired watch faster
 
-As a customer, I want to be able to specify the brand, model and price of the watch in the parameters to get a suitable selection for me
+As a customer, I want to be able to specify the brand, reference number, land, color, model and price of the watch in the parameters to get a suitable selection for me
 
-As a client, I want to receive notifications only when new search results appear, so that I can pay attention to these notifications without taking them for spam
+As a customer, I want to receive notifications only when new search results appear, so that I can pay attention to these notifications without taking them for spam
 
-Аs a client, I want the interface to be clear and not require extra effort to configure the search parameters so that I use this service
+Аs a customer, I want the interface to be clear and not require extra effort to configure the search parameters so that I use this service
+
