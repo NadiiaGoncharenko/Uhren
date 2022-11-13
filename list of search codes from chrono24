@@ -1,0 +1,107 @@
+Marke
+Modell
+Preis
+Durchmesser
+Referenznummer
+Gehäuse
+
+Standort:
+Österreich= countryIds=AT
+Deutschland = countryIds=DE
+Deutschland,Österreich, Schweiz = countryIds=AT&countryIds=CH&countryIds=CH&countryIds=DE
+Europa = countryIds=AD&countryIds=AD&countryIds=AL&countryIds=AL&countryIds=AT&countryIds=BA&countryIds=BA&countryIds=BE&countryIds=BE&countryIds=BG&countryIds=BG&countryIds=BY&countryIds=BY&countryIds=CH&countryIds=CH&countryIds=CY&countryIds=CY&countryIds=CZ&countryIds=CZ&countryIds=DE&countryIds=DK&countryIds=DK&countryIds=EE&countryIds=EE&countryIds=ES&countryIds=ES&countryIds=FI&countryIds=FI&countryIds=FR&countryIds=FR&countryIds=GI&countryIds=GI&countryIds=GR&countryIds=GR&countryIds=HR&countryIds=HR&countryIds=HU&countryIds=HU&countryIds=IE&countryIds=IE&countryIds=IS&countryIds=IS&countryIds=IT&countryIds=IT&countryIds=LI&countryIds=LI&countryIds=LT&countryIds=LT&countryIds=LU&countryIds=LU&countryIds=LV&countryIds=LV&countryIds=MC&countryIds=MC&countryIds=MD&countryIds=MD&countryIds=ME&countryIds=ME&countryIds=MK&countryIds=MK&countryIds=MT&countryIds=MT&countryIds=NL&countryIds=NL&countryIds=NO&countryIds=NO&countryIds=PL&countryIds=PL&countryIds=PT&countryIds=PT&countryIds=RO&countryIds=RO&countryIds=RS&countryIds=RS&countryIds=SE&countryIds=SE&countryIds=SI&countryIds=SI&countryIds=SK&countryIds=SK&countryIds=SM&countryIds=SM&countryIds=UA&countryIds=UA&countryIds=UK&countryIds=UK
+Europäische Union = countryIds=AT&countryIds=BE&countryIds=BG&countryIds=CY&countryIds=CZ&countryIds=DE&countryIds=DK&countryIds=EE&countryIds=ES&countryIds=FI&countryIds=FR&countryIds=GP&countryIds=GP&countryIds=GR&countryIds=HR&countryIds=HU&countryIds=IE&countryIds=IT&countryIds=LT&countryIds=LU&countryIds=LV&countryIds=MQ&countryIds=MQ&countryIds=MT&countryIds=NL&countryIds=PL&countryIds=PT&countryIds=RE&countryIds=RE&countryIds=RO&countryIds=SE&countryIds=SI&countryIds=SK
+Ägypten = countryIds=EG
+Andora = AD
+Albanien = AL
+Armenien = AM
+Argentinien = AR
+Australien = AU
+Bahrain = BU
+Bermuda = BM
+Belgien = BE
+Brasilien = BR
+Bulgarien = BG
+Chile = CL
+China = CN
+Costa Rika = CR
+Dänemark = DK
+Deutschland = DE
+Estland = EE
+Finnland = FI
+Frankreich = FR
+Französisch-Polynesien = PF
+Georgien = GE
+Gibraltar = GI
+Griechenland = GR
+Großbritannien = UK
+Guam = GU
+Hongkong = HK
+Indien = IN
+Indonesien = ID
+Irland = IE
+Island = IS
+Israel = IL
+Italien = T
+Japan = JP
+Kanada = CA
+Kasachstan = KZ
+Kolumbien = CO
+Kroatien = HR
+Kuwait = KW
+Laos = LA
+Lettland = LW
+Libanon = LB
+Liechtenstein = LI
+Litauen = LT
+Luxemburg = LU
+Macau = MO
+Malaysia = MY
+Malta = MT
+Marokko = MA
+Mauritius = 
+Monaco = MR
+Nepal = NP
+Neuseeland = NZ
+Niederlande = NL
+Nigeria = NG
+Norwegen = NO
+Oman = OM
+Österreich = AT
+Pakistan = PK
+Panama = PA
+Philippinen = PH
+Polen = PL
+Portugal = PT
+Puerto Rico = PR 
+Qatar = QA
+Reunion = RE
+Rumänien = RO
+Russland = RU
+San Marino = SM
+Saudi-Arabien = SA
+Schweden = SE
+Schweiz = CH
+Serbien = RS
+Singapur = SG
+Slowakei = SK
+Slowenien = SL
+Spanien = ES
+Sri Lanka = LK
+Südafrika = ZA
+Südkorea = KR
+Taiwan = TW
+Thailand = TH
+Trinidad und Tobago  = TT
+Tschechien = CZ
+Tunesien = TN
+Türkei = TR
+Ukraine = UA
+Ungarn = HU
+Uruguay = UY
+USA = US
+Usbekistan = UZ 
+VAE = AE
+Venezuela = VE
+Vietnam = VN
+Zypern = CY
