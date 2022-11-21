@@ -1,9 +1,18 @@
 Preis
-Durchmesser
-Referenznummer
-Gehäuse
+in URL priceFrom=____&priceTo=____
+Max price 150000 (!!!)
+
+Vorgeschlagene:
+unter 200  priceTo=200
+200-300    priceFrom=200&priceTo=300
+300-800    priceFrom=200&priceTo=800
+800-5000   priceFrom=800&priceTo=5000
+über 5000  priceFrom=5000
+
+kann beliebige Zahl sein
 
 Standort:
+
 Österreich= countryIds=AT
 Deutschland = countryIds=DE
 Deutschland,Österreich, Schweiz = countryIds=AT&countryIds=CH&countryIds=CH&countryIds=DE
