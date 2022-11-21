@@ -1,130 +1,442 @@
-Audemars Piguet 
+A.Lange & Söhne  manufacturerIds= 1 alangesoehne
+ABP Paris manufacturerIds=604  abpparis
+Aerowatch manufacturerIds=286 aerowatch
+Aigle manufacturerIds=337
+Aigner manufacturerIds=371
+Alain Silberstein manufacturerIds=8  alainsilberstein
+Alexander Shorokhoff manufacturerIds=531  alexandershorokhoff  query=alexander+shorokhoff
+Alfred Dunhill manufacturerIds=271
+Alfred Rochar & Fils manufacturerIds=669  alfredrochatfils
+Alpina manufacturerIds=287  alpina
+Andersen Geneve manufacturerIds=10  andersengenve
+Atlanus manufacturerIds=9
+Angelus  manufacturerIds=375
+Angular Momentum manufacturerIds=11
+Anonimo  manufacturerIds=12 query=Anonimo
+Apple  manufacturerIds=633 apple
+Aquanautic  manufacturerIds=327
+Aquastar  manufacturerIds=651
+Aristo  manufacturerIds=13 
+Armand Nicolet  manufacturerIds=393  query=Armand+Nicolet
+Armani  manufacturerIds=
+Armin Storm  manufacturerIds=
+Arnold & Sohn  manufacturerIds=    arnoldson
+Artisanal  manufacturerIds=
+Artya  manufacturerIds=
+Askania  manufacturerIds=
+Ateliers deMonaco  manufacturerIds=
+Atlantic  manufacturerIds=
+Audemars Piguet   manufacturerIds=
+Auguste Reymond  manufacturerIds=
+Auricoste  manufacturerIds=
+Azimuth  manufacturerIds=
+AzzaroB.R.M  manufacturerIds=
+Ball  manufacturerIds=
+Balmain  manufacturerIds=
+Baume & Mercier  manufacturerIds=
+Bedat & Co  manufacturerIds=
+Bell & Ross  manufacturerIds=
+Benrus  manufacturerIds=
+Benzinger  manufacturerIds=
+Bertolucci  manufacturerIds=
+Beuchat  manufacturerIds=
+Bifora  manufacturerIds=
+Black-Out Concept  manufacturerIds=
+Blacksand  manufacturerIds=
+Blancpain  manufacturerIds=
+blu  manufacturerIds=
+Boegli  manufacturerIds=
+Bogner Time  manufacturerIds=
+Boldr  manufacturerIds=
+Bomberg  manufacturerIds=
+Boucheron  manufacturerIds=
+Bovet  manufacturerIds=
+Breguet  manufacturerIds=
+Breil  manufacturerIds=
+Breitling  manufacturerIds=
+Bremont  manufacturerIds=
+Bruno Söhnle  manufacturerIds=
+Bulgari  manufacturerIds=
+Bulova  manufacturerIds=
+Bunz  manufacturerIds=
+Burberry   manufacturerIds=
+BWC-Swiss  manufacturerIds=
+ 
+    C.H. Wolf  manufacturerIds=
+    Cabestan  manufacturerIds=
+    Cadet Chronostar  manufacturerIds=
+    Camel Active  manufacturerIds=
+    Camille Fournet  manufacturerIds=
+    Candino  manufacturerIds=
+    Carl F. Bucherer  manufacturerIds=
+    Carlo Ferrara  manufacturerIds=
+    Cartier  manufacturerIds=
+    Casio  manufacturerIds=
+    Catena  manufacturerIds=
+    Catorex  manufacturerIds=
+    Cattin  manufacturerIds=
+    Century  manufacturerIds=
+    Cerruti  manufacturerIds=
+    Certina  manufacturerIds=
+    Chanel  manufacturerIds=
+    Charmex  manufacturerIds=
+    Charriol  manufacturerIds=
+    Chase-Durer  manufacturerIds=
+    Chaumet  manufacturerIds=
+    Chopard  manufacturerIds=
+    Chris Benz  manufacturerIds=
+    Christiaan v.d. Klaauw  manufacturerIds=
+    Christophe Claret  manufacturerIds=
+    Christopher Ward  manufacturerIds=
+    Chronographe Suisse Cie  manufacturerIds=
+    Chronoswiss  manufacturerIds=
+    Churpfälzische Uhrenmanufaktu  manufacturerIds=r
+    Citizen  manufacturerIds=
+    ck Calvin Klein  manufacturerIds=
+    Claude Bernard  manufacturerIds=
+    Claude Meylan  manufacturerIds=
+    Clerc  manufacturerIds=
+    Concord  manufacturerIds=
+    Condor  manufacturerIds=
+    Cornehl  manufacturerIds=
+    Cortébert  manufacturerIds=
+    Corum  manufacturerIds=
+    Crockett & Jones  manufacturerIds=
+    Cronus  manufacturerIds=
+    Cuervo y Sobrinos  manufacturerIds=
+    Cvstos  manufacturerIds=
+    CWC  manufacturerIds=
+    Cyma  manufacturerIds=
+    Cyrus  manufacturerIds=
 
-Breitling 
-IWC 
-Jaeger-LeCoultre 
-M.A.Editions
-M&M swiss Watch
-N.B. Yäeger
-N.O.A.
-Nautica
-Nauticfish
-Nethuns
-Nike
-Nica Ricci
-Nivada
-Nivrel
-Nixon
-NOMOS
-Nouvelle Horlogerie Calabrese (NHC)
-ODM
-Officina del Tempo
-Offshore Limited
-Ollech & Wajs
-Omega 
-Orator
-Oris
-Out of order
-Pacardt
-Panerai
-Parmigiani Fleurier
-Patek Philippe 
-Paul Picot
-Pequignet
-Perigaum
-Perrelet
-Perseo
-Phantoms
-Philip Stein
-Philip Watch
-Piaget
-Pierre Balmain
-Pierre Cardin
-Pierre DeRosche
-Pierre Kunz
-Police
-Poljot
-Pomellato
-Porsche Design
-Prim 
-Pro-Hunter
-Pryngers
-Pulsar
-Puma
-Quinting
-Rado
-Raidillon
-Rainer Brand
-Raketa
-Ralf Tech
-Ralph Lauren
-Raymond Weil 
-Rebellion Record
-REC Watches
-Ressence
-Revue Thommen
-RGM
-Richard Mille 
-Rios1931
-Roamer
-Roberge
-Roger Dubuis
-Rolex
-Rolf Lang
-Romain Jerome
-Rothenschild
-ROWI
-RSW
-Rysel Kentfield
+    D.Dornblüth & Sohn  manufacturerIds=
+    Damasko  manufacturerIds=
+    Daniel Roth  manufacturerIds=
+    Dark Rush  manufacturerIds=
+    Davidoff  manufacturerIds=
+    Davosa  manufacturerIds=
+    De Bethune  manufacturerIds=
+    De Grisogono  manufacturerIds=
+    Decade  manufacturerIds=
+    Deep Blue  manufacturerIds=
+    DeLaCour  manufacturerIds=
+    DeLaneau  manufacturerIds=
+    Delma  manufacturerIds=
+    Devon  manufacturerIds=
+    Dewitt  manufacturerIds=
+    Diesel  manufacturerIds=
+    Dietrich  manufacturerIds=
+    Dior  manufacturerIds=
+    Dodane  manufacturerIds=
+    Dolce & Gabbana  manufacturerIds=
+    Doxa  manufacturerIds=
+    Dubey & Schaldenbrand  manufacturerIds=
+    DuBois 1785  manufacturerIds=
+    DuBois et fils  manufacturerIds=
+    Dugena  manufacturerIds=
+   
+    Ebel  manufacturerIds=
+    Eberhard & Co.  manufacturerIds=
+    Edox  manufacturerIds=
+    Eichmüller  manufacturerIds=
+    Election  manufacturerIds=
+    Elgin  manufacturerIds=
+    Elysee  manufacturerIds=
+    Engelhardt  manufacturerIds=
+    Enicar  manufacturerIds=
+    Ennebi  manufacturerIds=
+    Epos  manufacturerIds=
+    Ernest Borel  manufacturerIds=
+    Ernst Benz  manufacturerIds=
+    Erwin Sattler  manufacturerIds=
+    Esprit  manufacturerIds=
+    Eterna  manufacturerIds=
+    Eulit  manufacturerIds=
+    Eulux  manufacturerIds=
+    F.P.Journe  manufacturerIds=
+    Fabergé  manufacturerIds=
+    Favre-Leuba  manufacturerIds=
+    Feldo  manufacturerIds=
+    Fendi  manufacturerIds=
+    Festina  manufacturerIds=
+    Flik Flak  manufacturerIds=
+    Fluco  manufacturerIds=
+    Fludo  manufacturerIds=
+    Formex  manufacturerIds=
+    Fortis  manufacturerIds=
+    Forum  manufacturerIds=
+    Fossil  manufacturerIds=
+    Franc Vila  manufacturerIds=
+    Franck Dubarry  manufacturerIds=
+    Franck Muller  manufacturerIds=
+    Frederique Constant  manufacturerIds=
+ 
+ Gaga Milano  manufacturerIds=
+    Gallet  manufacturerIds=
+    Gant  manufacturerIds=
+    Gardé  manufacturerIds=
+    Garmin  manufacturerIds=
+    Gevril  manufacturerIds=
+    Gigandet  manufacturerIds=
+    Girard Perregaux  manufacturerIds=
+    Giuliano Mazzuoli  manufacturerIds=
+    Glashütte Original  manufacturerIds=
+    Glycine  manufacturerIds=
+    Graf  manufacturerIds=
+    Graham  manufacturerIds=
+    Grand Seiko  manufacturerIds=
+    Greubel Forsey  manufacturerIds=
+    Grovana  manufacturerIds=
+    Gruen  manufacturerIds=
+    Grönefeld  manufacturerIds=
+    GUB Glashütte  manufacturerIds=
+    Gucci  manufacturerIds=
+    Guess  manufacturerIds=
+    Guy Laroche  manufacturerIds=
+    Gérald Genta  manufacturerIds=
+    Gübelin  manufacturerIds=
+ 
+    H.I.D. Watch  manufacturerIds=
+    H.Moser & Cie.  manufacturerIds=
+    Habring²  manufacturerIds=
+    Hacher  manufacturerIds=
+    Haemmer  manufacturerIds=
+    Hagal  manufacturerIds=
+    Hamilton  manufacturerIds=
+    Hanhart  manufacturerIds=
+    Harry Winston  manufacturerIds=
+    Hautlence  manufacturerIds=
+    HD3  manufacturerIds=
+    Hebdomas  manufacturerIds=
+    Helvetia  manufacturerIds=
+    Hentschel Hamburg  manufacturerIds=
+    Hermès  manufacturerIds=
+    Heuer  manufacturerIds=
+    Hirsch  manufacturerIds=
+    Hublot  manufacturerIds=
+    Hugo Boss  manufacturerIds=
+    HYT  manufacturerIds=
 
-
-
-U-Boat
-Ulysse Nardin
-Unikatuhren
-Union Glashütte
-Universal Geneve
-Urban Jürgensen
-Urwerk
-Vacheron Constantin
-Valbray
-Valentino
-Van Cleed & Arpels
-Van der Bauwede
-Vangarde
-Ventura
-Versace
-Vianney Halter
-Viceroy
-Victorinox Swiss Army
-Villemont
-Voncent Calabrese
-Visconti
-Vixa
-Vogard
-Vollmer
-Volna
-Vostok
-Voutilainen
-Vulcan
-Wakmann
-Waltham
-Welder
-Wempe
-Wenger
-Werenbach
-Wittnauer
-Wyler
-Wyler Vetta
-Xemex
-Yantar
-Yema
-Yes Watch
-Yves Saint Laurent
-Zeitwinkel
-Zenith
-Zeno-Watch Basel
-ZentRa
-Zeppelin
-Zodiac
-ZRC
+    Ice Watch  manufacturerIds=
+    Ikepod  manufacturerIds=
+    Illinois  manufacturerIds=
+    Ingersoll  manufacturerIds=
+    Invicta  manufacturerIds=
+    Iron Annie  manufacturerIds=
+    Itay Noy  manufacturerIds=
+    IWC  manufacturerIds=124  IWS
+  
+    Jacob & Co.  manufacturerIds=
+    Jacques Etoile  manufacturerIds=
+    Jacques Lemans  manufacturerIds=
+    Jaeger-LeCoultre  manufacturerIds=
+    Jaermann & Stübi  manufacturerIds=
+    Jaquet-Droz  manufacturerIds=
+    JB Gioacchino  manufacturerIds=
+    Jean d'Eve  manufacturerIds=
+    Jean Lassale  manufacturerIds=
+    Jean Marcel  manufacturerIds=
+    JeanRichard  manufacturerIds=
+    Joop  manufacturerIds=
+    Jorg Hysek  manufacturerIds=
+    Jules Jürgensen  manufacturerIds=
+    Junghans  manufacturerIds=
+    Junkers  manufacturerIds=
+    Juvenia  manufacturerIds=
+  
+    Kelek  manufacturerIds=
+    KHS  manufacturerIds=
+    Kienzle  manufacturerIds=
+    Kobold  manufacturerIds=
+    Konstantin Chaykin  manufacturerIds=
+    Korloff  manufacturerIds=
+    Krieger  manufacturerIds=
+    Kronsegler  manufacturerIds=
+    L'Epée  manufacturerIds=
+    L.Leroy  manufacturerIds=
+    Laco  manufacturerIds=
+    Lacoste  manufacturerIds=
+    Lancaster  manufacturerIds=
+    Lanco  manufacturerIds=
+    Lang & Heyne  manufacturerIds=
+    Laurent Ferrier  manufacturerIds=
+    Lebeau-Courally  manufacturerIds=
+    Leinfelder  manufacturerIds=
+    Lemania  manufacturerIds=
+    Leonidas  manufacturerIds=
+    Limes  manufacturerIds=
+    Linde Werdelin  manufacturerIds=
+    Lip  manufacturerIds=
+    Liv Watches  manufacturerIds=
+    Locman  manufacturerIds=
+    Longines  manufacturerIds=
+    Longio  manufacturerIds=
+    Lorenz  manufacturerIds=
+    Lorus  manufacturerIds=
+    Louis Erard  manufacturerIds=
+    Louis Moinet  manufacturerIds=
+    Louis Vuitton  manufacturerIds=
+    Louis XVI  manufacturerIds=
+    Lucien Rochat  manufacturerIds=
+    Ludovic Ballouard  manufacturerIds=
+    Luminox  manufacturerIds=
+    Lüm-Tec  manufacturerIds=
+  
+    M&M Swiss Watc  manufacturerIds=h
+    M.A.D. Editions  manufacturerIds=
+    Marcello C.  manufacturerIds=
+    Margi  manufacturerIds=
+    Marlboro  manufacturerIds=
+    Martin Braun  manufacturerIds=
+    Marvin  manufacturerIds=
+    Maserati  manufacturerIds=
+    Mathey-Tissot  manufacturerIds=
+    Mauboussin  manufacturerIds=
+    Maurice Blum  manufacturerIds=
+    Maurice de Mauriac  manufacturerIds=
+    Maurice Lacroix  manufacturerIds=
+    Mb&f  manufacturerIds=
+    Meccaniche Veloci  manufacturerIds=
+    Meistersinger  manufacturerIds=
+    Mercure  manufacturerIds=
+    Meva  manufacturerIds=
+    Meyers  manufacturerIds=
+    Michael Kors  manufacturerIds=
+    Michel Herbelin  manufacturerIds=
+    Michel Jordi  manufacturerIds=
+    Michele  manufacturerIds=
+    Mido  manufacturerIds=
+    Milleret  manufacturerIds=
+    Milus  manufacturerIds=
+    Minerva  manufacturerIds=
+    Momo Design  manufacturerIds=
+    Mondaine  manufacturerIds=
+    Mondia  manufacturerIds=
+    Montblanc  manufacturerIds=
+    Montega  manufacturerIds=
+    Morellato  manufacturerIds=
+    Moritz Grossmann  manufacturerIds=
+    Movado  manufacturerIds=
+    Mühle Glashütte  manufacturerIds=
+  
+N.B. Yäeger  manufacturerIds=
+N.O.A.  manufacturerIds=
+Nautica  manufacturerIds=
+Nauticfish  manufacturerIds=
+Nethuns  manufacturerIds=
+Nike  manufacturerIds=
+Nica Ricci  manufacturerIds=
+Nivada  manufacturerIds=
+Nivrel  manufacturerIds=
+Nixon  manufacturerIds=
+NOMOS  manufacturerIds=
+Nouvelle Horlogerie Cal  manufacturerIds=abrese (NHC)
+ODM  manufacturerIds=
+Officina del Tempo  manufacturerIds=
+Offshore Limited  manufacturerIds=
+Ollech & Wajs  manufacturerIds=
+Omega   manufacturerIds=
+Orator  manufacturerIds=
+Oris  manufacturerIds=
+Out of order  manufacturerIds=
+Pacardt  manufacturerIds=
+Panerai  manufacturerIds=
+Parmigiani Fleurier  manufacturerIds=
+Patek Philippe   manufacturerIds=
+Paul Picot  manufacturerIds=
+Pequignet  manufacturerIds=
+Perigaum  manufacturerIds=
+Perrelet  manufacturerIds=
+Perseo  manufacturerIds=
+Phantoms  manufacturerIds=
+Philip Stein  manufacturerIds=
+Philip Watch  manufacturerIds=
+Piaget  manufacturerIds=
+Pierre Balmain  manufacturerIds=
+Pierre Cardin  manufacturerIds=
+Pierre DeRosche  manufacturerIds=
+Pierre Kunz  manufacturerIds=
+Police  manufacturerIds=
+Poljot  manufacturerIds=
+Pomellato  manufacturerIds=
+Porsche Design  manufacturerIds=
+Prim   manufacturerIds=
+Pro-Hunter  manufacturerIds=
+Pryngers  manufacturerIds=
+Pulsar  manufacturerIds=
+Puma  manufacturerIds=
+Quinting  manufacturerIds=
+Rado  manufacturerIds=
+Raidillon  manufacturerIds=
+Rainer Brand  manufacturerIds=
+Raketa  manufacturerIds=
+Ralf Tech  manufacturerIds=
+Ralph Lauren  manufacturerIds=
+Raymond Weil   manufacturerIds=
+Rebellion Record  manufacturerIds=
+REC Watches  manufacturerIds=
+Ressence  manufacturerIds=
+Revue Thommen  manufacturerIds=
+RGM  manufacturerIds=
+Richard Mille   manufacturerIds=
+Rios1931  manufacturerIds=
+Roamer  manufacturerIds=
+Roberge  manufacturerIds=
+Roger Dubuis  manufacturerIds=
+Rolex   manufacturerIds=221  
+Rolf Lang  manufacturerIds=
+Romain Jerome  manufacturerIds=
+Rothenschild  manufacturerIds=
+ROWI  manufacturerIds=
+RSW  manufacturerIds=
+Rysel Kentfield  manufacturerIds=
+  
+U-Boat  manufacturerIds=
+Ulysse Nardin  manufacturerIds=
+Unikatuhren  manufacturerIds=
+Union Glashütte  manufacturerIds=
+Universal Geneve  manufacturerIds=
+Urban Jürgensen  manufacturerIds=
+Urwerk  manufacturerIds=
+Vacheron Constantin  manufacturerIds=
+Valbray  manufacturerIds=
+Valentino  manufacturerIds=
+Van Cleed & Arpels  manufacturerIds=
+Van der Bauwede  manufacturerIds=
+Vangarde  manufacturerIds=
+Ventura  manufacturerIds=
+Versace  manufacturerIds=
+Vianney Halter  manufacturerIds=
+Viceroy  manufacturerIds=
+Victorinox Swiss Army  manufacturerIds=
+Villemont  manufacturerIds=
+Voncent Calabrese  manufacturerIds=
+Visconti  manufacturerIds=
+Vixa  manufacturerIds=
+Vogard  manufacturerIds=
+Vollmer  manufacturerIds=
+Volna  manufacturerIds=
+Vostok  manufacturerIds=
+Voutilainen  manufacturerIds=
+Vulcan  manufacturerIds=
+Wakmann  manufacturerIds=
+Waltham  manufacturerIds=
+Welder  manufacturerIds=
+Wempe  manufacturerIds=
+Wenger  manufacturerIds=
+Werenbach  manufacturerIds=
+Wittnauer  manufacturerIds=
+Wyler  manufacturerIds=
+Wyler Vetta  manufacturerIds=
+Xemex  manufacturerIds=
+Yantar  manufacturerIds=
+Yema  manufacturerIds=
+Yes Watch  manufacturerIds=
+Yves Saint Laurent  manufacturerIds=
+Zeitwinkel  manufacturerIds=
+Zenith  manufacturerIds=
+Zeno-Watch Basel  manufacturerIds=
+ZentRa  manufacturerIds=
+Zeppelin  manufacturerIds=
+Zodiac  manufacturerIds=
+ZRC  manufacturerIds=
