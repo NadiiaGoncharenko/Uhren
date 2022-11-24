@@ -1,6 +1,23 @@
-Audemars Piguet   manufacturerIds=
-Breitling  manufacturerIds=
-Cartier  manufacturerIds=
-Omega   manufacturerIds=
-Patek Philippe   manufacturerIds=
-Rolex   manufacturerIds=221  
+Audemars Piguet    
+    audemarspiguet/index.htm?dosearch=true&query=Audemars+Piguet
+    manufacturerIds= 18
+    
+Breitling     
+    breitling/index.htm?dosearch=true&query=breitling
+    manufacturerIds=32
+    
+Cartier     
+    cartier/index.htm?dosearch=true&query=cartier
+    manufacturerIds=43
+    
+Omega
+    omega/index.htm?dosearch=true&query=omega          
+     manufacturerIds=187
+     
+Patek Philippe   
+    patekphilippe/index.htm?dosearch=true&query=patek+philippe
+    manufacturerIds=194
+    
+Rolex      
+    rolex/index.htm?dosearch=true&query=rolex
+    manufacturerIds=221  
