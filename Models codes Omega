@@ -2,6 +2,8 @@ https://www.chrono24.at/omega/    +   code to the modell
 
 &manufacturerIds=187
 
+1 zeile für einfache Suche, 2 für komplexere
+
 Constellation : constellation--mod60
 
 models=60
@@ -11,54 +13,104 @@ Constellation Day-Date : constellation-day-date--mod1076
 models=1076
 
 Constellation Double Eagle : constellation-double-eagle--mod2440.htm
+&models=2440
 Constellation Ladies : constellation-ladies--mod61.htm
+&models=61
 Constellation Petite Seconde : constellation-petite-seconde--mod2575.htm
+&models=2575
 Constellation Men : constellation-men--mod1077.htm
+&models=1077
 Constellation Quadra : constellation-quadra--mod3070.htm
+&models=3070
 Constellation Quartz : constellation-quartz--mod1078.htm
+&models=1078
 De Ville : de-ville--mod62.htm
+&models=62
 De Ville Central Tourbillon : de-ville-central-tourbillon--mod2476.htm
+&models=2576
 De Ville Co-Axial : de-ville-co-axial--mod638.htm
+&models=38
 De Ville Hour Vision : de-ville-hour-vision--mod637.htm
+&models=637
 De Ville Ladymatic : de-ville-ladymatic--mod635.htm
+&models=635
 De Ville Prestige : de-ville-prestige--mod636.htm
+&models=636
 De Ville Tresor : de-ville-tresor--mod1075.htm
+&models=1075
 De Ville X2 : de-ville-x2--mod2576.htm
+&models=2576
 Dynamic Chronograph : dynamic-chronograph--mod2489.htm
+&models=2489
 Flightmaster : flightmaster--mod1081.htm
+&models=1081
 Genève  : geneve--mod1082.htm
+&models=1082
 Globemaster : globemaster--mod1080.htm
+&models=1080
 Memomatic : memomatic--mod63.htm
+&models=63
 Museum : museum--mod525.htm
+&models=525
 Seamaster  : seamaster--mod66
+&models=66
 Seamaster 120 M : seamaster-120-m--mod3067.htm
+&models=3067
 Seamaster 1948 : seamaster-1948--mod3068.htm
+&models=3068
 Seamaster  300 : seamaster-300--mod376.htm
+&models=376
 Seamaster  Apnea : seamaster-apnea--mod3066.htm
+&models=3066
 Seamaster Aqua Terra : seamaster-aqua-terra--mod68.htm
+&models=68
 Seamaster Bullhead : seamaster-bullhead--mod1074.htm
+&models=1074
 Seamaster DeVille : seamaster-deville--mod276.htm
+&models=276
 Seamaster Diver 300 M : seamaster-diver-300-m--mod1073.htm
+&models=1073
 Seamaster Planet Ocean : seamaster-planet-ocean--mod65.htm
+&models=65
 Seamaster Planet Ocean Chronograph : seamaster-planet-ocean-chronograph--mod375.htm
+&models=375
 Seamaster PloProf : seamaster-ploprof--mod67.htm
+&models=67
 Seamaster Railmaster : seamaster-railmaster--mod69.htm
+&models=69
 Speedmaster : speedmaster--mod74.htm
+&models=74
 Speedmaster '57 : speedmaster-57--mod1083.htm
+&models=1083
 Speedmaster Broad Arrow : speedmaster-broad-arrow--mod242.htm
+&models=242
 Speedmaster Date : speedmaster-date--mod277.htm
+&models=277
 Speedmaster Day Date : speedmaster-day-date--mod73.htm
+&models=73
 Speedmaster HB-SIA : speedmaster-hb-sia--mod1086.htm
+&models=1086
 Speedmaster Ladies Chronograph : speedmaster-ladies-chronograph--mod2442.htm
+&models=2442
 Speedmaster Mark II  : speedmaster-mark-ii--mod1084.htm
+&models=1084
 Speedmaster Mark III  : speedmaster-mark-iii--mod3052.htm
+&models=3052
 Speedmaster Mark IV : speedmaster-mark-iv--mod3053.htm
+&models=3053
 Speedmaster Professional Moonwatch  : speedmaster-professional-moonwatch--mod71.htm
+&models=71
 Speedmaster Professional Moonwatch Moonphase : speedmaster-professional-moonwatch-moonphase--mod243.htm
+&models=243
 Speedmaster Racing : speedmaster-racing--mod1085.htm
+&models=1085
 Speedmaster Reduced : speedmaster-reduced--mod72.htm
+&models=72
 Speedmaster Skywalker X-33 : speedmaster-skywalker-x-33--mod1087.htm
+&models=1087
 Speedmaster  Spacemaker Z-33 : speedmaster-spacemaster-z-33--mod2441.htm
+&models=2441
 Speedmaster  Split-Seconds : speedmaster-split-seconds--mod3069.htm
+&models=3069
 Speedsonic : speedsonic--mod3071.htm
- 
+&models=3071 
