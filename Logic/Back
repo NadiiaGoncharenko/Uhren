@@ -123,7 +123,7 @@ if (isset($_SESSION["userID"]) && !empty($_SESSION["userID"])) {
     echo "reference ok";
    }
 
-   $url = $url + '&resultview=block&sortorder=0';
+   $url = $url + '&resultview=block&sortorder=5';
 
     
 
