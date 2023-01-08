@@ -22,15 +22,15 @@ $url=$caseMaterial = $marke =$model =$referencenumber =$location =$priceFrom==$p
     break;
 
     case 'Breitling': $marke="manufacturerIds=32";
-    include(modelsBreitling.php)
+    include 'modelsBreitling.php';
     break;
 
     case 'Cartier': $marke="manufacturerIds=43";
-    include(modelsCartier.php)
+    include 'modelsCartier.php';
     break;
 
     case 'Patek Philippe': $marke="manufacturerIds=194";
-    include(modelsPP.php)
+    include 'modelsPP.php';
     break;
    }
 
