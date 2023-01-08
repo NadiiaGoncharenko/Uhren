@@ -15,7 +15,7 @@ switch ($model) {
         break;
         case 'Complications':  $model = '&models=96';
         break;
-        case 'Ellipse d'Or':  $model = '&models=97';
+        case 'Ellipse dOr':  $model = '&models=97'; //Name is Ellipse d'Or for front
         break;
         case 'Gondolo':  $model = '&models=98';
         break;
