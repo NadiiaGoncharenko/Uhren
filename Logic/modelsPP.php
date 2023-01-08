@@ -1,4 +1,6 @@
 <?php
+
+function  modelPP($model){
 switch ($model) {
 
     case 'Annual Calendar':
@@ -40,4 +42,6 @@ switch ($model) {
         case 'World Time':  $model = '&models=95';
         break;
     }
+    return $model;
+}
     ?>

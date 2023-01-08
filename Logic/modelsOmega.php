@@ -1,5 +1,7 @@
 <?php
 $modelCode = '';
+
+function  modelOmega($model){
 switch($model) {
 
 case 'Constellation' : $modelCode =  '&models=60';
@@ -111,6 +113,8 @@ break;
 case 'Speedsonic' : $modelCode =  '&models=3071'; 
 break;
 }
-
 return $modelCode;
+}
+
+
 ?>

@@ -1,4 +1,5 @@
 <?php
+function  modelAP($model){
 switch ($model) {
 
     case 'Code 11.59':
@@ -105,5 +106,7 @@ switch ($model) {
         $model = '&models=1183';
         break;
 
+}
+return $model;
 }
 ?>

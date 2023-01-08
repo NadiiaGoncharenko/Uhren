@@ -1,0 +1,5 @@
+<?php
+
+function  modelCartier($model){
+}
+?>

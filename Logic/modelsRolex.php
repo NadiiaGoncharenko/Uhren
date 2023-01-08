@@ -1,4 +1,5 @@
 <?php
+function  modelRolex($model){
 
 switch($model){
     case 'Air King' : $model =  '&models=5';
@@ -124,5 +125,7 @@ case 'Datejust 41' : $model =  '&models=3025';
    case 'Yacht-Master  II' : $model =  '&models=59';
    break;
 
+}
+return $model;
 }
 ?>
