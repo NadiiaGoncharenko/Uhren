@@ -3,10 +3,10 @@ include "../config/db.php";
 
 $url=$caseMaterial = $marke =$model =$referencenumber =$location =$priceFrom=$priceTo="";
 
-$marke = "Omega";
-$model = "Speedmaster Day Date";
+//$marke = "Omega"; für test
+//$model = "Speedmaster Day Date";
  
-//if (isset($_SESSION["userID"]) && !empty($_SESSION["userID"])) {
+if (isset($_SESSION["userID"]) && !empty($_SESSION["userID"])) {
 
    switch($marke){
     case 'Omega': $marke="manufacturerIds=187";
@@ -154,6 +154,6 @@ $model = "Speedmaster Day Date";
    else {
        echo json_encode(array("statusCode"=>201));
    }
-//}
+}
    mysqli_close($con);
 ?>
