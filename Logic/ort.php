@@ -6,7 +6,9 @@ switch ($ort) {
 case 'Andora':$ort = 'countryIds=AD';break;
 case 'Albanien':$ort = 'countryIds=AL';break;
 case 'Armenien':$ort = 'countryIds=AM';break;
-case '':$ort = 'countryIds=AR';break;
+case 'Argentinien':$ort = 'countryIds=AR';break;
+
+
 case 'Australien':$ort = 'countryIds=AU';break;
 case 'Bahrain':$ort = 'countryIds=BU';break;
 case 'Bermuda':$ort = 'countryIds=BM';break;
@@ -96,3 +98,6 @@ case 'VAE':$ort = 'countryIds=AE';break;
 case 'Venezuela':$ort = 'countryIds=VE';break;
 case 'Vietnam':$ort = 'countryIds=VN';break;
 case 'Zypern':$ort = 'countryIds=CY';break;
+
+    }
+    ?>
