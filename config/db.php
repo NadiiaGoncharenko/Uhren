@@ -5,6 +5,6 @@
     $con = mysqli_connect("localhost","watchsearch","watchsearch","watchsearch");
     // Check connection
     if (mysqli_connect_errno()){
-        echo "Collection failed!";
+        echo "Connection failed!";
          exit();}
          ?>
