@@ -4,7 +4,7 @@ from email.message import EmailMessage
 
 # Define email sender and receiver
 email_sender = 'searchforchrono@gmail.com'
-email_password = 'write-password-here'
+email_password = 'xqmdjtzjznhviung'
 email_receiver = ''
 
 # Set the subject and body of the email
