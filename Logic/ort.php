@@ -1,3 +1,6 @@
+//Diese Datei ist nur für einfachere FrontEnd bearbeitung da. Fürs App ist nicht nötig
+
+
 <?php
 
 switch ($ort) {
