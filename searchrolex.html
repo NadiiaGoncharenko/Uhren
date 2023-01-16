@@ -169,6 +169,7 @@
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false" style="background-color: rgba(13, 68, 32, 0.836);">
                       Modell
                     </button>
+                    <form action='/Logic/back.php' method="POST">
                     <select name="model" class="dropdown-menu" aria-labelledby="defaultDropdown" style="width: 100%;">
                       <option class="dropdown-item" value="Air King">Air King</option>
                       <option class="dropdown-item" value="Air King Date">Air King Date</option>
@@ -228,6 +229,7 @@
                       <option class="dropdown-item" value="Yacht-Master 42">Yacht-Master 42</option>
                       <option class="dropdown-item" value="Yacht-Master II">Yacht-Master  II</option>
                     </select>
+                        </form>
                   </div>
                   
                   <div class="btn-group">
@@ -346,28 +348,28 @@
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false" style="background-color: rgba(13, 68, 32, 0.836);">
                       Gehäuse
                     </button>
-                    <ul class="dropdown-menu" aria-labelledby="defaultDropdown">
-                        <li><a class="dropdown-item" href="#">Aluminium</a></li>
-                        <li><a class="dropdown-item" href="#">Bronze</a></li>
-                        <li><a class="dropdown-item" href="#">Carbon</a></li>
-                        <li><a class="dropdown-item" href="#">Gelbgold</a></li>
-                        <li><a class="dropdown-item" href="#">Gold/Stahl</a></li>
-                        <li><a class="dropdown-item" href="#">Keramik</a></li>
-                        <li><a class="dropdown-item" href="#">Kunststoff</a></li>
-                        <li><a class="dropdown-item" href="#">Palladium</a></li>
-                        <li><a class="dropdown-item" href="#">Platin</a></li>
-                        <li><a class="dropdown-item" href="#">Roségold</a></li>
-                        <li><a class="dropdown-item" href="#">Rotgold</a></li>
-                        <li><a class="dropdown-item" href="#">Silber</a></li>
-                        <li><a class="dropdown-item" href="#">Stahl</a></li>
-                        <li><a class="dropdown-item" href="#">Tantal</a></li>
-                        <li><a class="dropdown-item" href="#">Titan</a></li>
-                        <li><a class="dropdown-item" href="#">Weißgold</a></li>
-                        <li><a class="dropdown-item" href="#">Wolfram</a></li>
-                        <li><a class="dropdown-item" href="#">Keine Angabe</a></li>
-
-
-                    </ul>
+                      <form action='/Logic/back.php' method="POST">
+                        <select name="caseMaterial" class="dropdown-menu" aria-labelledby="defaultDropdown">
+                      <option class="dropdown-item" value="Aluminium">Aluminium</option>
+                      <option class="dropdown-item" value="Bronze">Bronze</option>
+                      <option class="dropdown-item" value="Carbon">Carbon</option>
+                      <option class="dropdown-item" value="Gelbgold">Gelbgold</option>
+                      <option class="dropdown-item" value="Gold/Stahl">Gold/Stahl</option>
+                      <option class="dropdown-item" value="Keramik">Keramik</option>
+                      <option class="dropdown-item" value="Kunststoff">Kunststoff</option>
+                      <option class="dropdown-item" value="Palladium">Palladium</option>
+                      <option class="dropdown-item" value="Platin">Platin</option>
+                      <option class="dropdown-item" value="Roségold">Roségold</option>
+                      <option class="dropdown-item" value="Rotgold">Rotgold</option>
+                      <option class="dropdown-item" value="Silber">Silber</option>
+                      <option class="dropdown-item" value="Stahl">Stahl</option>
+                      <option class="dropdown-item" value="Tantal">Tantal</option>
+                      <option class="dropdown-item" value="Titan">Titan</option>
+                      <option class="dropdown-item" value="Weißgold">Weißgold</option>
+                      <option class="dropdown-item" value="Wolfram">Wolfram</option>
+                      <option class="dropdown-item" value="keine Angabe">Keine Angabe</option>
+                    </select>
+                      </form>
                   </div>
                   <form class="suche">
                     <input type="text" name="Search" placeholder="Referenznummer">
