@@ -165,87 +165,104 @@
             <div class="home__container container grid">
 
                   
-                  <div class="btn-group">
+              <div class="btn-group">
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false" style="background-color: rgba(13, 68, 32, 0.836);">
                       Modell
                     </button>
-                    <ul class="dropdown-menu" aria-labelledby="defaultDropdown" style="width: 100%;">
-                      <li><a class="dropdown-item" href="#">Constellation</a></li>
-                      <li><a class="dropdown-item" href="#">Constellation Day-Date</a></li>
-                      <li><a class="dropdown-item" href="#">Constellation Double Eagle</a></li>
-                      <li><a class="dropdown-item" href="#">Constellation Ladies</a></li>
-                      <li><a class="dropdown-item" href="#">Constellation Petite Seconde</a></li>
-                      <li><a class="dropdown-item" href="#">Constellation Men</a></li>
-                      <li><a class="dropdown-item" href="#">Constellation Quadra</a></li>
-                      <li><a class="dropdown-item" href="#">Constellation Quartz</a></li>
-                      <li><a class="dropdown-item" href="#">De Ville</a></li>
-                      <li><a class="dropdown-item" href="#">De Ville Central Tourbillon</a></li>
-                      <li><a class="dropdown-item" href="#">De Ville Co-Axial</a></li>
-                      <li><a class="dropdown-item" href="#">De Ville Hour Vision</a></li>
-                      <li><a class="dropdown-item" href="#">De Ville Ladymatic</a></li>
-                      <li><a class="dropdown-item" href="#">De Ville Prestige</a></li>
-                      <li><a class="dropdown-item" href="#">De Ville Tresor</a></li>
-                      <li><a class="dropdown-item" href="#">De Ville X2</a></li>
-                      <li><a class="dropdown-item" href="#">Dynamic Chronograph</a></li>
-                      <li><a class="dropdown-item" href="#">Flightmaster</a></li>
-                      <li><a class="dropdown-item" href="#">Genève</a></li>
-                      <li><a class="dropdown-item" href="#">Globemaster</a></li>
-                      <li><a class="dropdown-item" href="#">Memomatic</a></li>
-                      <li><a class="dropdown-item" href="#">Museum</a></li>
-                      <li><a class="dropdown-item" href="#">Seamaster</a></li>
-                      <li><a class="dropdown-item" href="#">Seamaster 120 M</a></li>
-                      <li><a class="dropdown-item" href="#">Seamaster 1948</a></li>
-                      <li><a class="dropdown-item" href="#">Seamaster  300</a></li>
-                      <li><a class="dropdown-item" href="#">Seamaster  Apnea</a></li>
-                      <li><a class="dropdown-item" href="#">Seamaster Aqua Terra</a></li>
-                      <li><a class="dropdown-item" href="#">Seamaster Bullhead</a></li>
-                      <li><a class="dropdown-item" href="#">Seamaster DeVille</a></li>
-                      <li><a class="dropdown-item" href="#">Seamaster Diver 300 M</a></li>
-                      <li><a class="dropdown-item" href="#">Seamaster Planet Ocean</a></li>
-                      <li><a class="dropdown-item" href="#">Seamaster Planet Ocean Chronograph</a></li>
-                      <li><a class="dropdown-item" href="#">Seamaster PloProf</a></li>
-                      <li><a class="dropdown-item" href="#">Seamaster Railmaster</a></li>
-                      <li><a class="dropdown-item" href="#">Speedmaster</a></li>
-                      <li><a class="dropdown-item" href="#">Speedmaster 57</a></li>
-                      <li><a class="dropdown-item" href="#">Speedmaster Broad Arrow</a></li>
-                      <li><a class="dropdown-item" href="#">Speedmaster Date</a></li>
-                      <li><a class="dropdown-item" href="#">Speedmaster Day Date</a></li>
-                      <li><a class="dropdown-item" href="#">Speedmaster HB-SIA</a></li>
-                      <li><a class="dropdown-item" href="#">Speedmaster Ladies Chronograph</a></li>
-                      <li><a class="dropdown-item" href="#">Speedmaster Mark II</a></li>
-                      <li><a class="dropdown-item" href="#">Speedmaster Mark III</a></li>
-                      <li><a class="dropdown-item" href="#">Speedmaster Mark IV</a></li>
-                      <li><a class="dropdown-item" href="#">Speedmaster Professional Moonwatch</a></li>
-                      <li><a class="dropdown-item" href="#">Speedmaster Professional Moonwatch Moonphase</a></li>
-                      <li><a class="dropdown-item" href="#">Speedmaster Racing</a></li>
-                      <li><a class="dropdown-item" href="#">Speedmaster Reduced</a></li>
-                      <li><a class="dropdown-item" href="#">Speedmaster Skywalker X-33</a></li>
-                      <li><a class="dropdown-item" href="#">Speedmaster  Spacemaker Z-3</a></li>
-                      <li><a class="dropdown-item" href="#">Speedmaster  Split-Seconds</a></li>
-                      <li><a class="dropdown-item" href="#">Speedsonic</a></li>
-                    </ul>
+                    <form action='/Logic/Back.php' method="POST">
+                    <select name="model" class="dropdown-menu" aria-labelledby="defaultDropdown" style="width: 100%;">
+                      <option class="dropdown-item" value="Constellation">Constellation</a></li>
+                      <option class="dropdown-item" value="Constellation Day-Date">Constellation Day-Date</a></li>
+                      <option class="dropdown-item" value="Constellation Double Eagle">Constellation Double Eagle</a></li>
+                      <option class="dropdown-item" value="Constellation Ladies">Constellation Ladies</a></li>
+                      <option class="dropdown-item" value="Constellation Petite Seconde">Constellation Petite Seconde</a></li>
+                      <option class="dropdown-item" value="Constellation Men">Constellation Men</a></li>
+                      <option class="dropdown-item" value="Constellation Quadra">Constellation Quadra</a></li>
+                      <option class="dropdown-item" value="Constellation Quartz">Constellation Quartz</a></li>
+                      <option class="dropdown-item" value="De Ville">De Ville</a></li>
+                      <option class="dropdown-item" value="De Ville Central Tourbillon">De Ville Central Tourbillon</a></li>
+                      <option class="dropdown-item" value="De Ville Co-Axial">De Ville Co-Axial</a></li>
+                      <option class="dropdown-item" value="De Ville Hour Vision">De Ville Hour Vision</a></li>
+                      <option class="dropdown-item" value="De Ville Ladymatic">De Ville Ladymatic</a></li>
+                      <option class="dropdown-item" value="De Ville Prestige">De Ville Prestige</a></li>
+                      <option class="dropdown-item" value="De Ville Tresor">De Ville Tresor</a></li>
+                      <option class="dropdown-item" value="De Ville X2">De Ville X2</a></li>
+                      <option class="dropdown-item" value="Dynamic Chronograph">Dynamic Chronograph</a></li>
+                      <option class="dropdown-item" value="Flightmaster">Flightmaster</a></li>
+                      <option class="dropdown-item" value="Genève">Genève</a></li>
+                      <option class="dropdown-item" value="Globemaster">Globemaster</a></li>
+                      <option class="dropdown-item" value="Memomatic">Memomatic</a></li>
+                      <option class="dropdown-item" value="Museum">Museum</a></li>
+                      <option class="dropdown-item" value="Seamaster">Seamaster</a></li>
+                      <option class="dropdown-item" value="Seamaster 120 M">Seamaster 120 M</a></li>
+                      <option class="dropdown-item" value="Seamaster 1948">Seamaster 1948</a></li>
+                      <option class="dropdown-item" value="Seamaster  300">Seamaster  300</a></li>
+                      <option class="dropdown-item" value="Seamaster  Apnea">Seamaster  Apnea</a></li>
+                      <option class="dropdown-item" value="Seamaster Aqua Terra">Seamaster Aqua Terra</a></li>
+                      <option class="dropdown-item" value="Seamaster Bullhead">Seamaster Bullhead</a></li>
+                      <option class="dropdown-item" value="Seamaster DeVille">Seamaster DeVille</a></li>
+                      <option class="dropdown-item" value="Seamaster Diver 300 M">Seamaster Diver 300 M</a></li>
+                      <option class="dropdown-item" value="Seamaster Planet Ocean">Seamaster Planet Ocean</a></li>
+                      <option class="dropdown-item" value="Seamaster Planet Ocean Chronograph">Seamaster Planet Ocean Chronograph</a></li>
+                      <option class="dropdown-item" value="Seamaster PloProf">Seamaster PloProf</a></li>
+                      <option class="dropdown-item" value="Seamaster Railmaster">Seamaster Railmaster</a></li>
+                      <option class="dropdown-item" value="Speedmaster">Speedmaster</option>
+                      <option class="dropdown-item" value="Speedmaster 57">Speedmaster 57</option>
+                      <option class="dropdown-item" value="Speedmaster Broad Arrow">Speedmaster Broad Arrow</a></li>
+                      <option class="dropdown-item" value="Speedmaster Date">Speedmaster Date</option>
+                      <option class="dropdown-item" value="Speedmaster Day Date">Speedmaster Day Date</option>
+                      <option class="dropdown-item" value="Speedmaster HB-SIA">Speedmaster HB-SIA</option>
+                      <option class="dropdown-item" value="Speedmaster Ladies Chronograph">Speedmaster Ladies Chronograph</option>
+                      <option class="dropdown-item" value="Speedmaster Mark II">Speedmaster Mark II</option>
+                      <option class="dropdown-item" value="Speedmaster Mark III">Speedmaster Mark III</option>
+                      <option class="dropdown-item" value="Speedmaster Mark IV">Speedmaster Mark IV</option>
+                      <option class="dropdown-item" value="Speedmaster Professional Moonwatch">Speedmaster Professional Moonwatch</option>
+                      <option class="dropdown-item" value="Speedmaster Professional Moonwatch Moonphase">Speedmaster Professional Moonwatch Moonphase</option>
+                      <option class="dropdown-item" value="Speedmaster Racing">Speedmaster Racing</a></option>
+                      <option class="dropdown-item" value="Speedmaster Reduced">Speedmaster Reduced</a></option>
+                      <option class="dropdown-item" value="Speedmaster Skywalker X-33">Speedmaster Skywalker X-33</option>
+                      <option class="dropdown-item" value="Speedmaster  Spacemaker Z-3">Speedmaster  Spacemaker Z-3</option>
+                      <option class="dropdown-item" value="Speedmaster  Split-Seconds">Speedmaster  Split-Seconds</option>
+                      <option class="dropdown-item" value="Speedsonic">Speedsonic</option>
+                    </select>
+                 
+                        </form>
                   </div>
                   
                   <div class="btn-group">
-                   <form action='/Logic/back.php' method="POST">
+                   <form action='/Logic/Back.php' method="POST">
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false" style="background-color: rgba(13, 68, 32, 0.836);">
-                      Preis
+                      Preis vom
                     </button>
-                    <select name=preis class="dropdown-menu" aria-labelledby="defaultDropdown">
-                      <li><a class="dropdown-item" href="#">bis 7000€</a></li>
-                      <li><a class="dropdown-item" href="#">7000€ - 10000€</a></li>
-                      <li><a class="dropdown-item" href="#">10000€ - 16000€</a></li>
-                      <li><a class="dropdown-item" href="#">16000€ - 23000€</a></li>
-                      <li><a class="dropdown-item" href="#">ab 23000€</a></li>
+                   <select name="priceFrom" class="dropdown-menu" aria-labelledby="defaultDropdown">
+                        
+                         <option class="dropdown-item" value="7000">7000€</option>
+                          <option class="dropdown-item" value="10000">10000€</option>
+                          <option class="dropdown-item" value="16000">16000€</option>
+                           <option class="dropdown-item" value="23000">23000€</option>
+                        </div>
+                          
+                          <div class="btn-group">
+                      <form action='/Logic/Back.php' method="POST">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false" style="background-color: rgba(13, 68, 32, 0.836);">
+                      Preis bis
+                    </button>
+                     <select name="priceTo" class="dropdown-menu" aria-labelledby="defaultDropdown">
+                        <option class="dropdown-item" value="7000">7000€</option>
+                        <option class="dropdown-item" value="10000">10000€</option>
+                        <option class="dropdown-item" value="16000€">16000€</option>
+                        <option class="dropdown-item" value="23000€">23000€</option>
+                      
                     </select>
                     </form>
                   </div>
+                          
                   
                   <div class="btn-group">
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false" style="background-color: rgba(13, 68, 32, 0.836);">
                       Standort
                     </button>
-                     <form action='/Logic/back.php' method="POST">
+                      <form action='/Logic/Back.php' method="POST">
                     <select name="ort" class="dropdown-menu" aria-labelledby="defaultDropdown" style="width: 100%;">
                       <option class="dropdown-item" value="Ägypten">Ägypten</option>
                       <option class="dropdown-item" value="Andora">Andora</option>
@@ -342,12 +359,12 @@
                     </select>
                  </form>
                   </div>
-
+                
                   <div class="btn-group">
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false" style="background-color: rgba(13, 68, 32, 0.836);">
                       Gehäuse
                     </button>
-                    <form action='/Logic/back.php' method="POST">
+                      <form action='/Logic/Back.php' method="POST">
                     <select name="caseMaterial" class="dropdown-menu" aria-labelledby="defaultDropdown">
                       <option class="dropdown-item" value="Aluminium">Aluminium</option>
                       <option class="dropdown-item" value="Bronze">Bronze</option>
@@ -370,8 +387,8 @@
                     </select>
                    </form>
                   </div>
-                  <form class="suche">
-                    <input type="text" name="Search" placeholder="Referenznummer">
+                  <form class="suche" action='/Logic/Back.php' method="POST">>
+                    <input type="text" name="Referenznummer" placeholder="Referenznummer">
                     <button class="btn btn-secondary " type="button" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false">
                         Uhrsuche starten
                       </button>
