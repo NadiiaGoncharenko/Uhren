@@ -198,17 +198,30 @@
                     </form>
                   </div>
                   
-                  <div class="btn-group">
+                <div class="btn-group">
+                   <form action='/Logic/Back.php' method="POST">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false" style="background-color: rgba(13, 68, 32, 0.836);">
+                      Preis vom
+                    </button>
+                   <select name="priceFrom" class="dropdown-menu" aria-labelledby="defaultDropdown">
+                        
+                         <option class="dropdown-item" value="7000">7000€</option>
+                          <option class="dropdown-item" value="10000">10000€</option>
+                          <option class="dropdown-item" value="16000">16000€</option>
+                           <option class="dropdown-item" value="23000">23000€</option>
+                        </div>
+                          
+                          <div class="btn-group">
                       <form action='/Logic/Back.php' method="POST">
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false" style="background-color: rgba(13, 68, 32, 0.836);">
-                      Preis
+                      Preis bis
                     </button>
-                    <select name=preis class="dropdown-menu" aria-labelledby="defaultDropdown">
-                      <li><a class="dropdown-item" href="#">bis 7000€</a></li>
-                      <li><a class="dropdown-item" href="#">7000€ - 10000€</a></li>
-                      <li><a class="dropdown-item" href="#">10000€ - 16000€</a></li>
-                      <li><a class="dropdown-item" href="#">16000€ - 23000€</a></li>
-                      <li><a class="dropdown-item" href="#">ab 23000€</a></li>
+                     <select name="priceTo" class="dropdown-menu" aria-labelledby="defaultDropdown">
+                        <option class="dropdown-item" value="7000">7000€</option>
+                        <option class="dropdown-item" value="10000">10000€</option>
+                        <option class="dropdown-item" value="16000€">16000€</option>
+                        <option class="dropdown-item" value="23000€">23000€</option>
+                      
                     </select>
                     </form>
                   </div>
