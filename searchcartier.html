@@ -169,7 +169,7 @@
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false" style="background-color: rgba(13, 68, 32, 0.836);">
                       Modell
                     </button>
-                      <form action='/Logic/back.php' method="POST">
+                      <form action='/Logic/Back.php' method="POST">
                     <select name="model" class="dropdown-menu" aria-labelledby="defaultDropdown" style="width: 100%;">
                       <option class="dropdown-item" value="21 Chronoscaph">21 Chronoscaph</option>
                       <option class="dropdown-item" value="21 Must de Cartier">21 Must de Cartier</option>
@@ -199,7 +199,7 @@
                   </div>
                   
                   <div class="btn-group">
-                      <form action='/Logic/back.php' method="POST">
+                      <form action='/Logic/Back.php' method="POST">
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false" style="background-color: rgba(13, 68, 32, 0.836);">
                       Preis
                     </button>
@@ -217,7 +217,7 @@
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false" style="background-color: rgba(13, 68, 32, 0.836);">
                       Standort
                     </button>
-                      <form action='/Logic/back.php' method="POST">
+                      <form action='/Logic/Back.php' method="POST">
                     <select name="ort" class="dropdown-menu" aria-labelledby="defaultDropdown" style="width: 100%;">
                       <option class="dropdown-item" value="Ägypten">Ägypten</option>
                       <option class="dropdown-item" value="Andora">Andora</option>
@@ -319,7 +319,7 @@
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false" style="background-color: rgba(13, 68, 32, 0.836);">
                       Gehäuse
                     </button>
-                      <form action='/Logic/back.php' method="POST">
+                      <form action='/Logic/Back.php' method="POST">
                     <select name="caseMaterial" class="dropdown-menu" aria-labelledby="defaultDropdown">
                       <option class="dropdown-item" value="Aluminium">Aluminium</option>
                       <option class="dropdown-item" value="Bronze">Bronze</option>
@@ -342,8 +342,8 @@
                     </select>
                    </form>
                   </div>
-                  <form class="suche">
-                    <input type="text" name="Search" placeholder="Referenznummer">
+                  <form class="suche" action='/Logic/Back.php' method="POST">>
+                    <input type="text" name="Referenznummer" placeholder="Referenznummer">
                     <button class="btn btn-secondary " type="button" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false">
                         Uhrsuche starten
                       </button>
