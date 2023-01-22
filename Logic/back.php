@@ -190,7 +190,7 @@ if(isset($_POST['caseMaterial']))
         break;
         }
   }
-$referencenumber=$_POST['Search'];
+
 $priceFrom=$_POST['priceFrom'];
 $priceTo=$_POST['priceTo'];
  
@@ -203,20 +203,20 @@ $priceTo=$_POST['priceTo'];
     echo "case ok";
    }
 
-   if(isset($ort)&& $caseMaterial != ""){
+   if(isset($ort)&& $ort != ""){
     $url = $url . '&' . $ort;
 
     echo "case ok";
    } 
 
-   $url = $url . 'dosearch=true&';
+   $url = $url . '&dosearch=true&';
 
    if(isset($marke)&& $marke != ""){
     $url = $url . $marke;
 
     echo "marke ok";
    }
-   $url = $url . '&maxAgeInDays=0';
+   $url = $url . 'maxAgeInDays=0';
 
    if(isset($model)&& $model != ""){
     $url = $url . $model;
@@ -238,6 +238,7 @@ $priceTo=$_POST['priceTo'];
 
    $url = $url . '&redirectToSearchIndex=true';
 
+   $referencenumber=$_POST['Search'];
    if(isset($referencenumber)&& $referencenumber != ""){
     $url = $url . '&referenceNumber=' . $referencenumber;
 
