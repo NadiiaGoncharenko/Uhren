@@ -381,7 +381,6 @@
                       <option class="dropdown-item" value="Titan">Titan</option>
                       <option class="dropdown-item" value="Weißgold">Weißgold</option>
                       <option class="dropdown-item" value="Wolfram">Wolfram</option>
-                      <option class="dropdown-item" value="keine Angabe">Keine Angabe</option>
                     </select>
                   </div>
                     <input type="text" name="Referenznummer" placeholder="Referenznummer">
