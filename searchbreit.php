@@ -172,6 +172,7 @@
                       Modell
                     </button>
                     <select  name="model" class="dropdown-menu" aria-labelledby="defaulttDropdown" style="width: 100%;">
+                        <option class="dropdown-item" value="">Keine Angabe</option>
                       <option class="dropdown-item" value="Aerospace">Aerospace</option>
                       <option class="dropdown-item" value="Aerospace Avantage">Aerospace Avantage</option>
                       <option class="dropdown-item" value="Airwolf">Airwolf</option>
@@ -241,6 +242,7 @@
                       Preis vom
                     </button>
                    <select name="priceFrom" class="dropdown-menu" aria-labelledby="defaultDropdown">
+                       <option class="dropdown-item" value="">Keine Angabe</option>
                         
                          <option class="dropdown-item" value="7000">7000€</option>
                           <option class="dropdown-item" value="10000">10000€</option>
@@ -253,6 +255,7 @@
                       Preis bis
                     </button>
                      <select name="priceTo" class="dropdown-menu" aria-labelledby="defaultDropdown">
+                         <option class="dropdown-item" value="">Keine Angabe</option>
                         <option class="dropdown-item" value="7000">7000€</option>
                         <option class="dropdown-item" value="10000">10000€</option>
                         <option class="dropdown-item" value="16000€">16000€</option>
@@ -266,6 +269,7 @@
                       Standort
                     </button>
                     <select name="ort" class="dropdown-menu" aria-labelledby="defaultDropdown" style="width: 100%;">
+                        <option class="dropdown-item" value="">Keine Angabe</option>
                       <option class="dropdown-item" value="Ägypten">Ägypten</option>
                       <option class="dropdown-item" value="Andora">Andora</option>
                       <option class="dropdown-item" value="Albanien">Albanien</option>
@@ -367,6 +371,7 @@
                       Gehäuse
                     </button>
                     <select name="caseMaterial" class="dropdown-menu" aria-labelledby="defaultDropdown">
+                        <option class="dropdown-item" value="">Keine Angabe</option>
                       <option class="dropdown-item" value="Aluminium">Aluminium</option>
                       <option class="dropdown-item" value="Bronze">Bronze</option>
                       <option class="dropdown-item" value="Carbon">Carbon</option>
@@ -384,7 +389,6 @@
                       <option class="dropdown-item" value="Titan">Titan</option>
                       <option class="dropdown-item" value="Weißgold">Weißgold</option>
                       <option class="dropdown-item" value="Wolfram">Wolfram</option>
-                      <option class="dropdown-item" value="keine Angabe">Keine Angabe</option>
                     </select>
                   </div>
                   <form class="suche">
