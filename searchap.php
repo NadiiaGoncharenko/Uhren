@@ -164,14 +164,15 @@
         <section class="home" id="home">
             <div class="home__container container grid">
 
+            
             <form action='Logic/back.php' method="POST">
-
+                    
                   <div class="btn-group">
                     <button class="btn btn-secondary dropdown-toggle" type="submit" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false" style="background-color: rgba(13, 68, 32, 0.836);">
                       Modell
                     </button>
                     <!-- form action kommt und dann <input type="hidden" id="postId" name="marke" value="zb ap" ; select statt dropdown, select hat namen damit ich das im back abfragen kann/>-->
-
+                    <input type="hidden" id="marke" name="marke" value="manufacturerIds=18&">
                     <select name="model" class="dropdown-menu" aria-labelledby="defaultDropdown" style="width: 100%;">
                       <option class="dropdown-item" value="">Keine Angabe</option>
                       <option class="dropdown-item" value="Code 11.59">Code 11.59</option>
