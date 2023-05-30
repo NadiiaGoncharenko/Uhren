@@ -170,6 +170,7 @@
                     <button class="btn btn-secondary dropdown-toggle" type="submit" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false" style="background-color: rgba(13, 68, 32, 0.836);">
                       Modell
                     </button>
+                    <input type="hidden" id="marke" name="marke" value="manufacturerIds=43&">
                     <select name="model" class="dropdown-menu" aria-labelledby="defaultDropdown" style="width: 100%;">
                         <option class="dropdown-item" value="">Keine Angabe</option>
                       <option class="dropdown-item" value="21 Chronoscaph">21 Chronoscaph</option>
@@ -352,7 +353,7 @@
                       <option class="dropdown-item" value="Wolfram">Wolfram</option>
                     </select>
                   </div>
-                    <input type="text" name="Referenznummer" placeholder="Referenznummer">
+                  <input type="text" name="Search" placeholder="Referenznummer">
                     <button class="btn btn-secondary " type="submit" >
                         Uhrsuche starten
                       </button>

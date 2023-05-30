@@ -196,7 +196,6 @@ session_start();
                     <h2>Finden Sie Ihre Traumuhr auf dem Marktplatz für Luxusuhren.</h2> <br> <br>
 
                 <form class="suche">
-                    <input type="text" name="Search" placeholder="Suchen...">
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="defaultDropdown" data-bs-toggle="dropdown" data-bs-auto-close="true" aria-expanded="false">
                         Uhr finden
                       </button>
